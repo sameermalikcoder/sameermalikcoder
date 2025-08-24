@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohd Sameer  
 
-<!--
-**sameermalikcoder/sameermalikcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about **Python Development, Data Analysis, and AI/ML projects**.  
+💡 Exploring **dropshipping, automation, and software development**.  
+🎯 Goal: To become a **professional Data Analyst** and build impactful tech solutions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me  
+- 🔭 Currently working on: **AI Virtual Assistant (Jarvis-like project) & Dropshipping Store**  
+- 🌱 Learning: **Python (Problem-Solving Projects), Data Analysis, Machine Learning**  
+- 🎨 Interests: Tech, E-commerce, Automation, and Smart Tools  
+- 🌍 Based in: **Uttar Pradesh, India**  
+
+---
+
+## ⚡ Skills & Tools  
+**Programming & Data**  
+- Python, Pandas, NumPy, Matplotlib, SQL  
+- Data Cleaning, Visualization, Problem Solving  
+
+**Web & E-commerce**  
+- Shopify Dropshipping  
+- Facebook Ads Audience Targeting  
+- Product Research & Video Marketing  
+
+**Other Tools**  
+- Git & GitHub  
+- Canva, Pictory 
+
+---
+## 🔗 Connect With Me  
+- 📧 Email: **maliksammer282000@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/mohd-sameer-937982362  
+
+---
+
+⭐️ *"Consistency beats talent when talent doesn’t work hard."*  
