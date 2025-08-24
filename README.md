@@ -30,7 +30,7 @@
 
 ---
 ## 🔗 Connect With Me  
-- 📧 Email: **maliksammer282000@gmail.com**  
+- 📧 Email: **maliksameer282000@gmail.com**  
 - 💼 LinkedIn: https://www.linkedin.com/in/mohd-sameer-937982362  
 
 ---
